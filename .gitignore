@@ -1,0 +1,15 @@
+build/
+dist/
+target/
+logs/
+temp/
+log
+bin/
+out/
+gradle/
+META-INF/
+.gradle/
+.idea/
+.project
+.classpath
+.iml
